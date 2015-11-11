@@ -1,2 +1,2 @@
 # DscBuild
-The DscBuild module is a collection of cmdlets that help automate a PowerShell Desired State Configuration build pipeline.
+The DscBuild module assists in the automation of PowerShell Desired State Configuration.
